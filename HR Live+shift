@@ -5,3 +5,4 @@ git commit -m "primer commit"
 git branch -M main 
 git remote add origin https://github.com/Jhonat7/Jhonat7.git
  git push -u origin main
+bot/
